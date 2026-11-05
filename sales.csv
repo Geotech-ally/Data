@@ -1,0 +1,309 @@
+order_id,order_date,branch,product,quantity,payment,customer_rating,unit_price
+1001,2025-02-02,Siaya,Rice,1.0,M-Pesa,1.0,210
+1002,2025-10-10,Kakamega,Soap,1.0,Cash,3.0,90
+1003,2025-08-27,Kisumu,Soap,5.0,Card,3.0,90
+1004,2025-06-10,Kakamega,Maize Flour,17.0,Cash,2.0,150
+1005,2025-06-08,Bondo,Soap,9.0,Card,1.0,90
+1006,2025-11-10,Kisumu,Rice,14.0,Cash,1.0,210
+1007,2025-02-01,Siaya,Cooking Oil,8.0,Cash,1.0,320
+1008,not recorded,Bondo,Rice,4.0,M-Pesa,3.0,210
+1009,2025-03-15,Siaya,Milk,8.0,Cash,1.0,60
+1010,2025-02-04,Kisumu,Milk,2.0,M-Pesa,5.0,60
+1011,2025-07-12,Bondo,Milk,15.0,M-Pesa,2.0,60
+1012,2025-12-23,Bondo,Sugar,4.0,Cash,4.0,180
+1013,2025-09-26,Kisumu,Soap,8.0,Card,4.0,90
+1014,2025-10-05,Siaya,Sugar,19.0,Card,3.0,180
+1015,2025-09-19,Kisumu,Soap,12.0,M-Pesa,5.0,90
+1016,2025-10-14,Bondo,Rice,9.0,Cash,1.0,210
+1017,2025-07-07,Bondo,Cooking Oil,11.0,Cash,2.0,320
+1018,2025-02-16,Bondo,Cooking Oil,15.0,M-Pesa,2.0,320
+1019,2025-11-03,Kakamega,Maize Flour,5.0,M-Pesa,1.0,150
+1020,2025-06-14,Kakamega,Maize Flour,13.0,M-Pesa,2.0,150
+1021,2025-07-02,Siaya,Sugar,17.0,Cash,2.0,180
+1022,2025-05-16,Kisumu,Sugar,11.0,M-Pesa,4.0,180
+1023,2025-03-08,Bondo,Maize Flour,9.0,Card,2.0,150
+1024,2025-12-05,Kakamega,Sugar,3.0,M-Pesa,5.0,180
+1025,2025-10-13,Kakamega,Rice,5.0,Card,4.0,210
+1026,2025-08-24,Kisumu,Cooking Oil,18.0,M-Pesa,5.0,320
+1027,2025-05-27,Kisumu,Sugar,11.0,Cash,1.0,180
+1028,2025-10-28,Kisumu,Sugar,6.0,M-Pesa,5.0,180
+1029,2025-07-19,Kisumu,Rice,8.0,M-Pesa,4.0,210
+1030,2025-06-11,Bondo,Sugar,11.0,Cash,5.0,180
+1031,2025-06-14,Bondo,Soap,11.0,Card,2.0,90
+1032,2025-03-24,Siaya,Cooking Oil,14.0,Cash,5.0,320
+1033,2025-02-03,Siaya,Sugar,5.0,M-Pesa,3.0,180
+1034,2025-07-22,Kakamega,Sugar,13.0,M-Pesa,1.0,180
+1035,2025-11-21,Siaya,Cooking Oil,9.0,M-Pesa,3.0,320
+1036,2025-01-24,Kakamega,Soap,18.0,M-Pesa,1.0,90
+1037,2025-11-10,Kakamega,Cooking Oil,4.0,Cash,,320
+1038,2025-10-30,Siaya,Cooking Oil,3.0,Cash,2.0,320
+1039,2025-04-12,Kisumu,Soap,9.0,Cash,2.0,90
+1040,2025-08-19,Kakamega,Milk,10.0,Cash,,60
+1041,2025-03-02,Bondo,Soap,14.0,Cash,3.0,90
+1042,2025-10-04,Siaya,Milk,8.0,Cash,1.0,60
+1043,2025-09-13,Bondo,Milk,18.0,M-Pesa,5.0,60
+1044,2025-05-10,Bondo,Sugar,10.0,M-Pesa,5.0,180
+1045,2025-01-25,Kakamega,Soap,3.0,Cash,4.0,90
+1046,2025-12-21,Siaya,Cooking Oil,3.0,Cash,4.0,320
+1047,2025-06-12,Kakamega,Sugar,19.0,M-Pesa,3.0,180
+1048,2025-11-22,Kakamega,Rice,3.0,M-Pesa,3.0,210
+1049,2025-09-05,Kisumu,Milk,19.0,Cash,,60
+1050,2025-10-12,Kisumu,Milk,6.0,M-Pesa,1.0,60
+1051,2025-10-05,Bondo,Sugar,2.0,M-Pesa,1.0,180
+1052,2025-03-13,Kisumu,Rice,6.0,Cash,2.0,210
+1053,2025-05-13,Siaya,Cooking Oil,12.0,Cash,3.0,320
+1054,2025-06-20,Siaya,Soap,9.0,M-Pesa,1.0,90
+1055,2025-07-01,Kakamega,Rice,15.0,Cash,1.0,210
+1056,2025-01-16,Kakamega,Rice,12.0,M-Pesa,5.0,210
+1057,2025-07-19,Kisumu,Soap,8.0,Cash,2.0,90
+1058,2025-02-26,Kakamega,Rice,13.0,M-Pesa,3.0,210
+1059,2025-09-29,Kisumu,Maize Flour,19.0,M-Pesa,3.0,150
+1060,2025-09-07,Bondo,Cooking Oil,8.0,M-Pesa,,320
+1061,2025-12-03,Kakamega,Cooking Oil,3.0,M-Pesa,4.0,320
+1062,2025-09-29,Kakamega,Soap,8.0,Cash,2.0,90
+1063,2025-05-14,Kisumu,Maize Flour,16.0,M-Pesa,5.0,150
+1064,2025-12-20,Kakamega,Cooking Oil,5.0,M-Pesa,2.0,320
+1065,2025-05-30,Kisumu,Rice,19.0,M-Pesa,5.0,210
+1066,2025-04-29,Bondo,Soap,12.0,Cash,3.0,90
+1067,2025-11-27,Siaya,Rice,12.0,Cash,1.0,210
+1068,2025-05-16,Siaya,Milk,7.0,Card,4.0,60
+1069,2025-01-28,Kisumu,Milk,18.0,M-Pesa,1.0,60
+1070,2025-06-21,Kakamega,Maize Flour,1.0,M-Pesa,4.0,150
+1071,2025-10-18,Siaya,Milk,6.0,mpesa,1.0,60
+1072,2025-03-11,Bondo,Rice,8.0,M-Pesa,2.0,210
+1073,2025-06-18,siaya ,Rice,10.0,Card,4.0,210
+1074,2025-02-17,Siaya,Maize Flour,10.0,Cash,5.0,150
+1075,2025-09-08,Kakamega,Rice,3.0,M-Pesa,3.0,210
+1076,2025-06-23,Kisumu,Soap,5.0,M-Pesa,1.0,90
+1077,2025-05-01,Bondo,Rice,2.0,Card,2.0,210
+1078,2025-03-24,Bondo,Maize Flour,11.0,mpesa,5.0,150
+1079,2025-07-26,Siaya,Rice,7.0,M-Pesa,,210
+1080,2025-09-02,Siaya,Milk,11.0,M-Pesa,1.0,60
+1081,2025-12-10,Kisumu,Soap,12.0,M-Pesa,2.0,90
+1082,2025-06-09,Kakamega,Maize Flour,14.0,M-Pesa,,150
+1083,2025-02-28,Kakamega,Milk,11.0,M-Pesa,,60
+1084,2025-10-31,Kisumu,Milk,13.0,M-Pesa,5.0,60
+1085,2025-08-18,Kisumu,Cooking Oil,12.0,Cash,4.0,320
+1086,2025-09-13,Kisumu,Soap,13.0,mpesa,1.0,90
+1087,2025-02-05,Kisumu,Sugar,12.0,M-Pesa,4.0,180
+1088,2025-04-25,Kakamega,Rice,7.0,Card,3.0,210
+1089,2025-10-08,Kakamega,Sugar,5.0,Cash,1.0,180
+1090,2025-10-31,Kisumu,Soap,15.0,M-Pesa,3.0,90
+1091,2025-06-08,Bondo,Milk,7.0,M-Pesa,1.0,60
+1092,2025-10-21,Kisumu,Soap,11.0,mpesa,2.0,90
+1093,2025-11-04,siaya ,Milk,4.0,M-Pesa,5.0,60
+1094,2025-05-22,bondo ,Milk,9.0,M-Pesa,4.0,60
+1095,2025-11-24,Bondo,Maize Flour,11.0,Card,1.0,150
+1096,2025-04-16,Kakamega,Cooking Oil,12.0,M-Pesa,5.0,320
+1097,2025-03-29,Kisumu,Soap,11.0,Cash,3.0,90
+1098,2025-09-07,Kisumu,Rice,7.0,M-Pesa,5.0,210
+1099,2025-08-21,siaya ,Maize Flour,19.0,Cash,4.0,150
+1100,2025-02-21,Siaya,Maize Flour,10.0,M-Pesa,2.0,150
+1101,2025-10-31,Kakamega,Rice,16.0,M-Pesa,3.0,210
+1102,2025-03-14,Kakamega,Rice,14.0,M-Pesa,3.0,210
+1103,2025-10-21,Siaya,Cooking Oil,11.0,M-Pesa,4.0,320
+1104,2025-01-03,Kakamega,Cooking Oil,17.0,Cash,2.0,320
+1105,2025-10-18,Siaya,Maize Flour,3.0,M-Pesa,2.0,150
+1106,2025-10-15,Bondo,Rice,18.0,M-Pesa,2.0,210
+1107,2025-10-12,Siaya,Maize Flour,17.0,Cash,2.0,150
+1108,2025-08-31,Kisumu,Rice,10.0,Cash,1.0,210
+1109,2025-06-22,Kakamega,Sugar,,M-Pesa,1.0,180
+1110,2025-09-15,Kisumu,Sugar,10.0,M-Pesa,5.0,180
+1111,2025-04-12,Kisumu,Soap,6.0,Card,1.0,90
+1112,2025-10-12,Kisumu,Rice,16.0,Cash,5.0,210
+1113,2025-07-22,Siaya,Soap,5.0,Cash,1.0,90
+1114,2025-06-17,Kisumu,Soap,6.0,Card,4.0,90
+1115,2025-07-04,Kisumu,Milk,10.0,Cash,2.0,60
+1116,2025-07-27,Bondo,Soap,16.0,M-Pesa,3.0,90
+1117,2025-01-14,Kakamega,Rice,8.0,M-Pesa,2.0,210
+1118,2025-02-21,Kisumu,Sugar,10.0,M-Pesa,3.0,180
+1119,2025-03-31,Siaya,Cooking Oil,,Cash,3.0,320
+1120,2025-02-11,Bondo,Rice,3.0,Card,3.0,210
+1121,2025-06-10,kakamega ,Maize Flour,2.0,M-Pesa,2.0,150
+1122,2025-09-01,Bondo,Milk,2.0,M-Pesa,3.0,60
+1123,2025-08-27,Kakamega,Milk,17.0,M-Pesa,5.0,60
+1124,2025-06-21,Bondo,Maize Flour,16.0,Card,3.0,150
+1125,2025-11-09,Siaya,Soap,16.0,M-Pesa,2.0,90
+1126,2025-07-26,Kisumu,Maize Flour,2.0,M-Pesa,1.0,150
+1127,2025-01-29,Kakamega,Soap,2.0,M-Pesa,2.0,90
+1128,2025-10-07,Kakamega,Maize Flour,6.0,M-Pesa,1.0,150
+1129,2025-07-29,Kisumu,Sugar,11.0,M-Pesa,1.0,180
+1130,2025-08-20,bondo ,Rice,7.0,M-Pesa,5.0,210
+1131,2025-07-26,Kisumu,Soap,10.0,M-Pesa,1.0,90
+1132,2025-07-22,Bondo,Sugar,4.0,M-Pesa,3.0,180
+1133,2025-02-03,Kakamega,Milk,14.0,mpesa,5.0,60
+1134,2025-07-24,Kisumu,Soap,6.0,M-Pesa,5.0,90
+1135,2025-10-18,Siaya,Cooking Oil,2.0,M-Pesa,1.0,320
+1136,2025-04-21,Kisumu,Soap,15.0,Cash,1.0,90
+1137,2025-08-09,Bondo,Soap,18.0,M-Pesa,2.0,90
+1138,2025-01-12,Kakamega,Sugar,1.0,M-Pesa,3.0,180
+1139,2025-05-07,Kisumu,Soap,9.0,mpesa,5.0,90
+1140,2025-06-09,Siaya,Milk,16.0,M-Pesa,2.0,60
+1141,2025-12-25,Kakamega,Soap,14.0,M-Pesa,1.0,90
+1142,2025-03-20,Siaya,Soap,17.0,M-Pesa,2.0,90
+1143,2025-04-11,kisumu ,Rice,8.0,Cash,5.0,210
+1144,2025-05-30,Siaya,Cooking Oil,8.0,M-Pesa,1.0,320
+1145,2025-12-29,Bondo,Soap,14.0,M-Pesa,2.0,90
+1146,2025-11-08,Bondo,Sugar,3.0,M-Pesa,1.0,180
+1147,2025-01-13,Siaya,Rice,5.0,M-Pesa,1.0,210
+1148,2025-03-27,Kakamega,Cooking Oil,12.0,M-Pesa,5.0,320
+1149,2025-10-27,Bondo,Cooking Oil,13.0,Cash,1.0,320
+1150,2025-01-22,Siaya,Maize Flour,3.0,Cash,2.0,150
+1151,2025-11-09,Kakamega,Milk,10.0,M-Pesa,5.0,60
+1152,2025-04-13,Kakamega,Maize Flour,7.0,M-Pesa,4.0,150
+1153,2025-12-01,Siaya,Maize Flour,10.0,M-Pesa,1.0,150
+1154,2025-04-18,Kisumu,Milk,19.0,M-Pesa,3.0,60
+1155,2025-06-08,Bondo,Rice,2.0,Cash,5.0,210
+1156,2025-08-30,Bondo,Sugar,19.0,M-Pesa,3.0,180
+1157,2025-02-16,Kisumu,Soap,9.0,M-Pesa,3.0,90
+1158,2025-07-23,bondo ,Sugar,15.0,Card,3.0,180
+1159,2025-07-04,Kakamega,Maize Flour,9.0,M-Pesa,4.0,150
+1160,2025-10-14,Kisumu,Soap,6.0,M-Pesa,1.0,90
+1161,2025-12-30,Bondo,Cooking Oil,15.0,Cash,5.0,320
+1162,2025-08-31,Kisumu,Rice,14.0,M-Pesa,,210
+1163,2025-05-30,Bondo,Milk,3.0,M-Pesa,1.0,60
+1164,2025-05-29,Siaya,Milk,14.0,M-Pesa,,60
+1165,2025-06-02,Kisumu,Sugar,15.0,Card,5.0,180
+1166,2025-10-25,Kakamega,Soap,8.0,M-Pesa,4.0,90
+1167,2025-04-28,Kisumu,Rice,18.0,M-Pesa,2.0,210
+1168,2025-03-02,Bondo,Sugar,13.0,M-Pesa,3.0,180
+1169,2025-05-03,Kisumu,Maize Flour,7.0,M-Pesa,5.0,150
+1170,2025-01-09,Kakamega,Sugar,1.0,Cash,1.0,180
+1171,2025-02-08,Bondo,Rice,13.0,M-Pesa,5.0,210
+1172,2025-02-02,Kakamega,Milk,4.0,M-Pesa,5.0,60
+1173,2025-10-09,Siaya,Maize Flour,15.0,M-Pesa,4.0,150
+1174,2025-09-21,Siaya,Soap,10.0,Cash,2.0,90
+1175,2025-09-12,Bondo,Milk,9.0,M-Pesa,3.0,60
+1176,2025-06-18,Kakamega,Milk,4.0,Cash,1.0,60
+1177,2025-09-19,Kakamega,Sugar,14.0,Cash,5.0,180
+1178,2025-02-28,Kisumu,Maize Flour,4.0,M-Pesa,2.0,150
+1179,2025-11-25,Bondo,Cooking Oil,8.0,mpesa,1.0,320
+1180,2025-07-02,Kisumu,Milk,16.0,Cash,4.0,60
+1181,2025-12-09,Siaya,Milk,18.0,M-Pesa,4.0,60
+1182,2025-02-25,Kakamega,Rice,19.0,Card,4.0,210
+1183,2025-07-01,Siaya,Maize Flour,,M-Pesa,1.0,150
+1184,2025-09-12,Kakamega,Maize Flour,11.0,Cash,4.0,150
+1185,2025-06-30,Siaya,Sugar,4.0,Card,4.0,180
+1186,2025-06-12,kisumu ,Rice,16.0,M-Pesa,4.0,210
+1187,2025-03-02,Siaya,Maize Flour,16.0,Cash,5.0,150
+1188,2025-05-20,Bondo,Soap,19.0,mpesa,2.0,90
+1189,2025-03-29,Kakamega,Rice,13.0,Cash,,210
+1190,2025-04-21,Bondo,Maize Flour,3.0,Cash,5.0,150
+1191,2025-09-07,Kakamega,Maize Flour,10.0,mpesa,3.0,150
+1192,2025-08-19,Kakamega,Sugar,9.0,M-Pesa,3.0,180
+1193,2025-08-10,Kakamega,Soap,17.0,M-Pesa,2.0,90
+1194,2025-05-13,Bondo,Soap,8.0,M-Pesa,4.0,90
+1195,2025-12-17,Siaya,Sugar,7.0,M-Pesa,4.0,180
+1196,2025-02-01,Siaya,Cooking Oil,2.0,M-Pesa,1.0,320
+1197,2025-05-06,Kisumu,Milk,16.0,M-Pesa,3.0,60
+1198,2025-02-13,Siaya,Sugar,15.0,M-Pesa,,180
+1199,2025-05-04,Kakamega,Cooking Oil,1.0,Cash,2.0,320
+1200,2025-12-18,Siaya,Sugar,9.0,Cash,2.0,180
+1201,2025-05-14,Kisumu,Maize Flour,10.0,Cash,5.0,150
+1202,2025-11-28,Bondo,Cooking Oil,9.0,M-Pesa,1.0,320
+1203,2025-06-30,Kakamega,Rice,18.0,Cash,2.0,210
+1204,2025-09-13,Kakamega,Milk,3.0,M-Pesa,3.0,60
+1205,2025-06-16,siaya ,Soap,6.0,mpesa,4.0,90
+1206,2025-04-08,Siaya,Soap,4.0,M-Pesa,1.0,90
+1207,2025-10-06,Bondo,Rice,5.0,Cash,3.0,210
+1208,2025-12-20,Kisumu,Maize Flour,,M-Pesa,1.0,150
+1209,2025-04-07,Siaya,Sugar,18.0,M-Pesa,4.0,180
+1210,2025-10-12,Kisumu,Milk,1.0,Card,4.0,60
+1211,2025-04-06,Kakamega,Maize Flour,13.0,M-Pesa,,150
+1212,2025-09-19,Bondo,Milk,5.0,M-Pesa,2.0,60
+1213,2025-10-15,Kakamega,Soap,4.0,Card,1.0,90
+1214,2025-06-14,Kakamega,Cooking Oil,6.0,M-Pesa,5.0,320
+1215,2025-09-26,Kakamega,Soap,4.0,M-Pesa,4.0,90
+1216,2025-04-10,Kisumu,Milk,10.0,Cash,2.0,60
+1217,2025-01-29,Kakamega,Maize Flour,19.0,Cash,3.0,150
+1218,2025-02-05,Kisumu,Maize Flour,12.0,M-Pesa,4.0,150
+1219,2025-06-13,Siaya,Rice,14.0,Cash,,210
+1220,2025-11-26,Bondo,Milk,10.0,M-Pesa,,60
+1221,2025-02-16,Siaya,Maize Flour,1.0,M-Pesa,2.0,150
+1222,2025-06-16,Kisumu,Rice,2.0,M-Pesa,4.0,210
+1223,2025-09-14,Kisumu,Maize Flour,6.0,M-Pesa,4.0,150
+1224,2025-03-15,Kakamega,Rice,5.0,Cash,3.0,210
+1225,2025-09-21,Siaya,Rice,16.0,Cash,1.0,210
+1226,2025-04-22,Siaya,Maize Flour,17.0,M-Pesa,3.0,150
+1227,2025-10-23,Kakamega,Soap,17.0,M-Pesa,4.0,90
+1228,2025-07-31,Kisumu,Milk,13.0,M-Pesa,5.0,60
+1229,2025-07-19,Kakamega,Milk,11.0,Cash,3.0,60
+1230,2025-03-06,Kakamega,Maize Flour,13.0,M-Pesa,2.0,150
+1231,2025-06-19,Bondo,Cooking Oil,8.0,Cash,3.0,320
+1232,2025-11-09,Kisumu,Cooking Oil,13.0,M-Pesa,1.0,320
+1233,2025-01-08,Kisumu,Sugar,16.0,M-Pesa,1.0,180
+1234,2025-10-04,Siaya,Maize Flour,15.0,Cash,4.0,150
+1235,2025-06-29,Bondo,Milk,12.0,Cash,5.0,60
+1236,2025-09-20,Kisumu,Soap,2.0,M-Pesa,5.0,90
+1237,2025-08-31,Siaya,Soap,14.0,Cash,3.0,90
+1238,2025-06-07,Kisumu,Cooking Oil,7.0,Card,1.0,320
+1239,2025-04-23,Bondo,Maize Flour,15.0,M-Pesa,5.0,150
+1240,2025-08-17,kisumu ,Milk,11.0,M-Pesa,3.0,60
+1241,2025-02-21,Bondo,Cooking Oil,17.0,M-Pesa,2.0,320
+1242,2025-08-02,Kisumu,Rice,7.0,Cash,5.0,210
+1243,2025-02-04,Kisumu,Milk,18.0,M-Pesa,4.0,60
+1244,2025-08-26,Kisumu,Maize Flour,17.0,M-Pesa,4.0,150
+1245,2025-08-18,Kakamega,Maize Flour,7.0,M-Pesa,2.0,150
+1246,2025-01-31,Kisumu,Maize Flour,10.0,Cash,5.0,150
+1247,2025-10-04,siaya ,Maize Flour,11.0,M-Pesa,3.0,150
+1248,2025-06-01,Bondo,Maize Flour,15.0,Cash,3.0,150
+1249,2025-10-15,Bondo,Soap,14.0,M-Pesa,,90
+1250,2025-01-16,Bondo,Rice,17.0,Card,4.0,210
+1251,2025-03-07,Kakamega,Milk,8.0,M-Pesa,1.0,60
+1252,2025-06-30,Siaya,Soap,10.0,M-Pesa,2.0,90
+1253,2025-03-10,Kakamega,Milk,9.0,Cash,2.0,60
+1254,2025-05-01,Siaya,Cooking Oil,18.0,Card,5.0,320
+1255,2025-08-30,Kakamega,Cooking Oil,6.0,M-Pesa,4.0,320
+1256,2025-02-22,Bondo,Milk,12.0,M-Pesa,2.0,60
+1257,2025-09-05,Bondo,Cooking Oil,3.0,Cash,,320
+1258,2025-02-07,Kakamega,Maize Flour,17.0,Cash,4.0,150
+1259,2025-03-05,Kakamega,Soap,8.0,M-Pesa,2.0,90
+1260,2025-08-03,Kakamega,Soap,,M-Pesa,3.0,90
+1261,2025-10-17,Bondo,Milk,12.0,Cash,5.0,60
+1262,2025-03-04,Kisumu,Milk,10.0,Cash,3.0,60
+1263,2025-04-20,Siaya,Maize Flour,17.0,Cash,1.0,150
+1264,2025-12-04,Kisumu,Soap,11.0,M-Pesa,4.0,90
+1265,2025-12-28,Kakamega,Milk,10.0,M-Pesa,3.0,60
+1266,2025-08-01,Kisumu,Soap,2.0,Card,3.0,90
+1267,2025-06-13,Kisumu,Soap,1.0,Cash,4.0,90
+1268,2025-05-07,Kisumu,Milk,8.0,Cash,,60
+1269,2025-08-12,Bondo,Sugar,19.0,M-Pesa,2.0,180
+1270,2025-08-04,Bondo,Maize Flour,18.0,M-Pesa,3.0,150
+1271,2025-04-18,Kakamega,Sugar,12.0,Cash,1.0,180
+1272,2025-01-09,Siaya,Cooking Oil,12.0,M-Pesa,4.0,320
+1273,2025-02-25,siaya ,Maize Flour,8.0,Card,3.0,150
+1274,2025-12-16,Kisumu,Maize Flour,4.0,M-Pesa,2.0,150
+1275,2025-06-02,Kisumu,Soap,1.0,Cash,4.0,90
+1276,2025-06-26,Siaya,Rice,7.0,Cash,3.0,210
+1277,2025-06-20,Kakamega,Rice,7.0,M-Pesa,3.0,210
+1278,2025-10-13,Bondo,Soap,4.0,M-Pesa,3.0,90
+1279,2025-01-24,Kakamega,Rice,5.0,Cash,2.0,210
+1280,2025-01-31,Kisumu,Rice,1.0,M-Pesa,1.0,210
+1281,2025-04-11,Kisumu,Maize Flour,12.0,M-Pesa,5.0,150
+1282,2025-06-27,Kakamega,Milk,18.0,Cash,1.0,60
+1283,2025-09-02,Kisumu,Sugar,14.0,Card,2.0,180
+1284,2025-06-29,Kisumu,Maize Flour,9.0,M-Pesa,4.0,150
+1285,2025-06-11,Siaya,Soap,8.0,M-Pesa,1.0,90
+1286,2025-12-09,Kakamega,Soap,6.0,M-Pesa,,90
+1287,2025-02-28,bondo ,Maize Flour,,M-Pesa,4.0,150
+1288,2025-07-28,Kisumu,Cooking Oil,12.0,M-Pesa,4.0,320
+1289,2025-07-17,Kakamega,Maize Flour,11.0,M-Pesa,2.0,150
+1290,2025-06-22,Kakamega,Cooking Oil,1.0,Cash,1.0,320
+1291,2025-10-22,Kakamega,Maize Flour,8.0,M-Pesa,,150
+1292,2025-04-08,Kakamega,Soap,6.0,Card,2.0,90
+1293,2025-12-15,Kisumu,Rice,4.0,M-Pesa,5.0,210
+1294,2025-05-02,Kakamega,Milk,14.0,M-Pesa,,60
+1295,2025-07-18,Siaya,Soap,10.0,Cash,1.0,90
+1296,2025-07-10,kakamega ,Rice,13.0,Cash,4.0,210
+1297,2025-11-07,Bondo,Rice,14.0,M-Pesa,5.0,210
+1298,2025-06-10,Kakamega,Maize Flour,19.0,M-Pesa,5.0,150
+1299,2025-04-14,Bondo,Maize Flour,16.0,M-Pesa,4.0,150
+1300,2025-01-08,Bondo,Rice,12.0,M-Pesa,2.0,210
+1190,2025-04-21,Bondo,Maize Flour,3.0,Cash,5.0,150
+1124,2025-06-21,Bondo,Maize Flour,16.0,Card,3.0,150
+1186,2025-06-12,kisumu ,Rice,16.0,M-Pesa,4.0,210
+1214,2025-06-14,Kakamega,Cooking Oil,6.0,M-Pesa,5.0,320
+1107,2025-10-12,Siaya,Maize Flour,17.0,Cash,2.0,150
+1128,2025-10-07,Kakamega,Maize Flour,6.0,M-Pesa,1.0,150
+1177,2025-09-19,Kakamega,Sugar,14.0,Cash,5.0,180
+1074,2025-02-17,Siaya,Maize Flour,10.0,Cash,5.0,150
